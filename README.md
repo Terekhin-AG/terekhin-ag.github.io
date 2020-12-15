@@ -1,8 +1,8 @@
-# Мой сайт terekhin-ag.github.io
+# Главная страница сайта terekhin-ag.github.io
 
 Главная страничка
 
-[Рабочие файлы](my-report/)
+[Файлы реферата](my-report/)
 
-[Работа](my-report-www/)
+[Файлы публикации](my-report-www/)
 
